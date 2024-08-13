@@ -63,4 +63,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: Ipa
-        path: build/YTDownloader-iOS.ipa
+        path: build/App.ipa
